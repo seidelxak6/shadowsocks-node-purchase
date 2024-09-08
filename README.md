@@ -1,5 +1,5 @@
 # shadowsocks节点购买
-许多vpn的老用户都知道，现在好用的vpn被封的差不多了，尤其greenVPN下架后，VPN基本被封死。当然老牌[vpn expressvpn]([https://bit.ly/3NIfjuy](https://go.expressvpn.com/c/3787699/1481111/16063) 等还是一如既往的稳定，对vpn有硬核需要的[可以选择它](https://go.expressvpn.com/c/3787699/1481111/16063)使用。而对于想使用google的我们来说，还有哪些选择呢?比较了一下现在繁多的翻&墙工具酸酸乳，从综合能力来说酸酸乳shadowsocks(以下简称SS)应该是现在比较可靠的方式了，兼具了易用、可靠和安全的三大优点。
+许多vpn的老用户都知道，现在好用的vpn被封的差不多了，尤其greenVPN下架后，VPN基本被封死。当然老牌[vpn expressvpn](https://go.expressvpn.com/c/3787699/1481111/16063) 等还是一如既往的稳定，对vpn有硬核需要的[可以选择它](https://go.expressvpn.com/c/3787699/1481111/16063)使用。而对于想使用google的我们来说，还有哪些选择呢?比较了一下现在繁多的翻&墙工具酸酸乳，从综合能力来说酸酸乳shadowsocks(以下简称SS)应该是现在比较可靠的方式了，兼具了易用、可靠和安全的三大优点。
 
 ## SHADOWSOCKS是什么？shadowsocks账号有什么好处？
 
