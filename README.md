@@ -1,6 +1,8 @@
 # shadowsocks节点购买
 许多vpn的老用户都知道，现在好用的vpn被封的差不多了，尤其greenVPN下架后，VPN基本被封死。当然老牌[vpn expressvpn](https://go.expressvpn.com/c/3787699/1481111/16063) 等还是一如既往的稳定，对vpn有硬核需要的[可以选择它](https://go.expressvpn.com/c/3787699/1481111/16063)使用。而对于想使用google的我们来说，还有哪些选择呢?比较了一下现在繁多的翻&墙工具酸酸乳，从综合能力来说酸酸乳shadowsocks(以下简称SS)应该是现在比较可靠的方式了，兼具了易用、可靠和安全的三大优点。
 
+ ## 最值得购买shadowsocks 机场节点(https://bit.ly/3h13Qdj)   优惠码 888
+
 ## SHADOWSOCKS是什么？shadowsocks账号有什么好处？
 
 Shadowsocks（影梭）酸酸乳和VPN一样，是一种支持科学上网的技术。比起VPN，Shadowsocks是一种更新的技术，使用起来也更为轻便。更重要的是，大部分现有的VPN连接方式都很容易被监测到，于是也就很容易受到人为干扰，而Shadowsocks在这方面却很出众，目前仍是一种不太容易被干扰的科学上网方式。另外，Shadowsocks支持两种模式，既可以访问所有网址时都通过它，也可以只在访问墙外网站时才自动开启，这样既可以翻墙，也不会影响访问国内网站的速度。那么在鱼目滚珠的机场市场中那些Shadowsocks商家值得拥有?以下推荐几个市场上知名而又靠谱的商家给大家:
